@@ -36,3 +36,9 @@ function toWeirdCase(string){
   return res.slice(0, -1)
 }
 ```
+## Education
+* HTML Academy
+* Hexlet
+## Languages
+**English**: A2
+**Russian**: Native
